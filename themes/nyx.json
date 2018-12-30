@@ -26,6 +26,7 @@
 		"editorGroupHeader.tabsBackground": "#282828",
 		"editorIndentGuide.activeBackground": "#6d6d6d",
 		"editorIndentGuide.background": "#4d4d4d",
+		"editorLink.activeForeground": "#4e94ce",
 		"editorLineNumber.activeForeground": "#949494",
 		"editorPane.background": "#1b1b1b",
 		"editorRuler.foreground": "#292929",
@@ -34,10 +35,16 @@
 		"foreground": "#c9c9c9",
 		"inputOption.activeBorder": "#bdbdbd",
 		"list.activeSelectionBackground": "#797979",
+		"list.activeSelectionForeground": "#ffffff",
+		"list.dropBackground": "#707070",
+		"list.errorForeground": "#f88070",
 		"list.focusBackground": "#575757",
 		"list.highlightForeground": "#a3d7f1",
 		"list.hoverBackground": "#444444",
+		"list.inactiveFocusBackground": "#313135",
 		"list.inactiveSelectionBackground": "#4e4e4e",
+		"list.invalidItemForeground": "#b89500",
+		"list.warningForeground": "#4d9e4d",
 		"menu.background": "#272727",
 		"menu.foreground": "#5a5a5a",
 		"panelTitle.activeForeground": "#ffffff",
@@ -111,7 +118,6 @@
 		//"editorHoverWidget.border": "#454545",
 		//"editorInfo.foreground": "#008000",
 		//"editorLineNumber.foreground": "#858585",
-		//"editorLink.activeForeground": "#4e94ce",
 		//"editorMarkerNavigation.background": "#2d2d30",
 		//"editorMarkerNavigationError.background": "#ea4646",
 		//"editorMarkerNavigationInfo.background": "#008000",
@@ -161,12 +167,6 @@
 		//"inputValidation.infoBorder": "#007acc",
 		//"inputValidation.warningBackground": "#352a05",
 		//"inputValidation.warningBorder": "#b89500",
-		//"list.activeSelectionForeground": "#ffffff",
-		//"list.dropBackground": "#707070",
-		//"list.errorForeground": "#f88070",
-		//"list.inactiveFocusBackground": "#313135",
-		//"list.invalidItemForeground": "#b89500",
-		//"list.warningForeground": "#4d9e4d",
 		//"menu.selectionBackground": "#707070",
 		//"menu.selectionForeground": "#ffffff",
 		//"menu.separatorBackground": "#bbbbbb",
@@ -703,7 +703,7 @@
 			"name": "Markup Lists",
 			"scope": "markup.list",
 			"settings": {
-				"foreground": "#9AA83A"
+				"foreground": "#afceaf"
 			}
 		},
 		{
@@ -725,7 +725,7 @@
 			"name": "Markup Headings",
 			"scope": "markup.heading",
 			"settings": {
-				"foreground": "#D0B344"
+				"foreground": "#bbb18b"
 			}
 		},
 		{
@@ -733,7 +733,7 @@
 			"scope": "markup.heading.setext",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#D0B344"
+				"foreground": "#bbb18b"
 			}
 		},
 		{
