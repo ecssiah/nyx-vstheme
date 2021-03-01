@@ -264,7 +264,7 @@
 			"scope": "comment",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#9A9B99"
+				"foreground": "#bbbbbb"
 			}
 		},
 		{
@@ -280,7 +280,7 @@
 			"scope": "string source",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#D08442"
+				"foreground": "#c49d7b"
 			}
 		},
 		{
@@ -392,7 +392,7 @@
 			"scope": "punctuation.section.embedded -(source string source punctuation.section.embedded), meta.brace.erb.html",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#008200"
+				"foreground": "#3c7c3c"
 			}
 		},
 		{
@@ -400,7 +400,7 @@
 			"scope": "invalid",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#FF0B00"
+				"foreground": "#ff584f"
 			}
 		},
 		{
@@ -408,7 +408,7 @@
 			"scope": "variable.other.php, variable.other.normal",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#ff5ce9"
+				"foreground": "#f786e8"
 			}
 		},
 		{
@@ -599,7 +599,7 @@
 			"scope": "punctuation.section.embedded.begin.php, punctuation.section.embedded.end.php",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#D08442"
+				"foreground": "#d8af8b"
 			}
 		},
 		{
@@ -633,7 +633,7 @@
 				"punctuation.section.embedded.end.ruby"
 			],
 			"settings": {
-				"foreground": "#D08442"
+				"foreground": "#d4a47a"
 			}
 		},
 		{
