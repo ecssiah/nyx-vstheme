@@ -12,6 +12,6 @@ git clone https://github.com/ecssiah/nyx-vstheme.git ~/.vscode/extensions/
 
 Restart VS Code and the theme "Nyx" will be available. 
 
-To customize the theme, open ```/nyx-vstheme/themes/nyx.json```. 
+To customize the theme, open ```/nyx-vstheme/themes/nyx.json``` in the repo directory. 
 
 To locate syntax coloring groups, press "Cmd-Shift-P" to open the Command Palette then run ```Developer: Inspect Editor Tokens and Scope```.
