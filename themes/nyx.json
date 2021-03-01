@@ -4,7 +4,6 @@
 	"type": "dark",
 	"colors": {
 		"activityBar.background": "#353535",
-		"activityBar.dropBackground": "#ffffff1f",
 		"activityBar.foreground": "#ccb6b6",
 		"activityBar.inactiveForeground": "#ffffff99",
 		"activityBarBadge.background": "#72408a",
@@ -50,7 +49,7 @@
 		"editorCodeLens.foreground": "#999999",
 		"editorCursor.background": "#000000",
 		"editorCursor.foreground": "#ffffff",
-		"editorError.foreground": "#ea4646",
+		"editorError.foreground": "#f07e7e",
 		"editorGroup.border": "#444444",
 		"editorGroup.dropBackground": "#53595d80",
 		"editorGroupHeader.noTabsBackground": "#1b1b1b",
@@ -70,7 +69,7 @@
 		"editorLineNumber.foreground": "#858585",
 		"editorLink.activeForeground": "#4e94ce",
 		"editorMarkerNavigation.background": "#2d2d30",
-		"editorMarkerNavigationError.background": "#ea4646",
+		"editorMarkerNavigationError.background": "#db8787",
 		"editorMarkerNavigationInfo.background": "#008000",
 		"editorMarkerNavigationWarning.background": "#4d9e4d",
 		"editorOverviewRuler.addedForeground": "#007acc99",
@@ -79,7 +78,7 @@
 		"editorOverviewRuler.commonContentForeground": "#60606066",
 		"editorOverviewRuler.currentContentForeground": "#40c8ae80",
 		"editorOverviewRuler.deletedForeground": "#007acc99",
-		"editorOverviewRuler.errorForeground": "#ff1212b3",
+		"editorOverviewRuler.errorForeground": "#ff5b5bb3",
 		"editorOverviewRuler.findMatchForeground": "#f6b94db3",
 		"editorOverviewRuler.incomingContentForeground": "#40a6ff80",
 		"editorOverviewRuler.infoForeground": "#121288b3",
@@ -701,7 +700,7 @@
 			"scope": "markup.inline.raw",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#FF0080"
+				"foreground": "#ff81c0"
 			}
 		},
 		{
