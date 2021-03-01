@@ -2,6 +2,8 @@
 
 This is a dark theme for Visual Studio Code with calm, pastel colors.
 
+![](/assets/screenshot1.png?raw=true)
+
 To install, clone into ```~/.vscode/extensions```:
 
 ```
