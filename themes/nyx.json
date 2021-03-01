@@ -495,14 +495,14 @@
 			"scope": "punctuation.section.embedded -(source string source punctuation.section.embedded), meta.brace.erb.html",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#D0B344"
+				"foreground": "#cebd78"
 			}
 		},
 		{
 			"name": "HTML ID",
 			"scope": "meta.toc-list.id",
 			"settings": {
-				"foreground": "#9AA83A"
+				"foreground": "#9cd66d"
 			}
 		},
 		{
@@ -510,7 +510,7 @@
 			"scope": "string.quoted.double.html, punctuation.definition.string.begin.html, punctuation.definition.string.end.html",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#9AA83A"
+				"foreground": "#7fdad2"
 			}
 		},
 		{
